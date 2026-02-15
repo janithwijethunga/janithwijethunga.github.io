@@ -222,10 +222,7 @@ export default function HeroAboutScroll() {
             </div>
 
             {/* ABOUT layer (starts below; slides up) */}
-            <div
-              ref={aboutTextRef}
-              className="absolute inset-0 space-y-6 will-change-transform w-full"
-            ></div>
+            
           </div>
           <div
             ref={aboutTextRef}
