@@ -8,9 +8,9 @@ import AboutSection from "./AboutSection";
 
 import heroImage from "../Assets/Me.png";
 import uiShot1 from "../Assets/mobile.png";
-import uiShot2 from "https://res.cloudinary.com/dksfpirc6/image/upload/v1771009933/webdev_kjxd7y.png";
 import uiShot3 from "../Assets/frontenddev.png";
 
+const uiShot2 = "https://res.cloudinary.com/dksfpirc6/image/upload/v1771009933/webdev_kjxd7y.png";
 gsap.registerPlugin(ScrollTrigger);
 
 const cards = [
